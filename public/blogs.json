@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1001,
+    "cover": "https://example.com/cover1.jpg",
+    "title": "The Art of Programming",
+    "author": "John Doe",
+    "author_img": "https://example.com/johndoe.jpg",
+    "posted_date": "2024-04-26",
+    "reading_time": 30,
+    "hashtags": ["programming", "coding", "technology"]
+  },
+  {
+    "id": 1002,
+    "cover": "https://example.com/cover2.jpg",
+    "title": "Cooking Made Easy",
+    "author": "Jane Smith",
+    "author_img": "https://example.com/janesmith.jpg",
+    "posted_date": "2024-04-25",
+    "reading_time": 45,
+    "hashtags": ["cooking", "recipes", "food"]
+  },
+  {
+    "id": 1003,
+    "cover": "https://example.com/cover3.jpg",
+    "title": "Fitness Fundamentals",
+    "author": "David Johnson",
+    "author_img": "https://example.com/davidjohnson.jpg",
+    "posted_date": "2024-04-24",
+    "reading_time": 60,
+    "hashtags": ["fitness", "exercise", "health"]
+  },
+  {
+    "id": 1004,
+    "cover": "https://example.com/cover4.jpg",
+    "title": "Travel Diaries",
+    "author": "Emily Brown",
+    "author_img": "https://example.com/emilybrown.jpg",
+    "posted_date": "2024-04-23",
+    "reading_time": 25,
+    "hashtags": ["travel", "adventure", "explore"]
+  }
+]
